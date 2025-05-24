@@ -14,9 +14,9 @@ timezone:
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: David Berry's Portfolio # the main title
+title: DWJB's Portfolio # the main title
 
-tagline: The portfolio site for all of David's projects # it will display as the subtitle
+tagline: The portfolio site for all of David Berry's projects # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
