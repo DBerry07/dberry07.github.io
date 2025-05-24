@@ -2,7 +2,8 @@
 title: "MaintainX"
 date: "2020-02-01"
 category: [Project]
-description: Revature Two-person Project
+tag: [mobile, android, kotlin]
+description: The Revature two-person project
 ---
 
 ## [GitHub Repo](https://github.com/DBerry07/Revature_TrainingRoomMaintenanceScheduler)
