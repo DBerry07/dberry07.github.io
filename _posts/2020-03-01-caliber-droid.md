@@ -1,9 +1,9 @@
 ---
 title: "CaliberDroid"
-date: "2024-06-24"
-category: [Projects, Showcase]
+date: "2020-03-01"
+category: [Projects]
 tag: [mobile, android, kotlin]
-description: A simple to-do list for Android.
+description: A Revature six-person native Android application.
 ---
 ## [GitHub Repo](https://github.com/DBerry07/Revature_CaliberDroid)
 
