@@ -1,6 +1,6 @@
 ---
 title: "Flutter Quiz Game"
-date: "2025-05-23"
+date: "2024-11-19"
 category: [Projects, Showcase]
 tag: [mobile, flutter, dart]
 description: A simple quiz game using Flutter and Dart.
