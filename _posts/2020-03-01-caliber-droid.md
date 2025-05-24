@@ -1,7 +1,7 @@
 ---
 title: "CaliberDroid"
 date: "2020-03-01"
-category: [Projects]
+category: [Projects, Revature]
 tag: [mobile, android, kotlin]
 description: The Revature six-person native Android application
 ---
