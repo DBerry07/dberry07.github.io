@@ -2,7 +2,7 @@
 title: "MaintainX"
 date: "2020-02-01"
 category: [Project]
-tag: [mobile, android, kotlin]
+tag: [mobile, android, java]
 description: The Revature two-person native Android application
 ---
 
