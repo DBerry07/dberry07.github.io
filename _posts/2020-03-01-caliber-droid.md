@@ -3,7 +3,7 @@ title: "CaliberDroid"
 date: "2020-03-01"
 category: [Projects]
 tag: [mobile, android, kotlin]
-description: A Revature six-person native Android application.
+description: The Revature six-person native Android application
 ---
 ## [GitHub Repo](https://github.com/DBerry07/Revature_CaliberDroid)
 

@@ -3,7 +3,7 @@ title: "ToDo List"
 date: "2024-06-24"
 category: [Projects, Showcase]
 tag: [mobile, android, kotlin]
-description: A simple to-do list for Android.
+description: A simple to-do list for Android
 ---
 ## [GitHub Repo](https://github.com/DBerry07/Android_TodoList)
 

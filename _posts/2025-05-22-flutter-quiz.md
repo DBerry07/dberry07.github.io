@@ -3,7 +3,7 @@ title: "Flutter Quiz Game"
 date: "2024-11-19"
 category: [Projects, Showcase]
 tag: [mobile, flutter, dart]
-description: A simple quiz game using Flutter and Dart.
+description: A simple quiz game using Flutter and Dart
 ---
 ## [GitHub Repo](https://github.com/DBerry07/Flutter_QuizGame)
 
