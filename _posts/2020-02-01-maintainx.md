@@ -10,4 +10,5 @@ description: The Revature two-person native Android application
 
 Revature Training Room Maintenance Scheduler
 
+### Notes:
 Unfortunately, the servers that were used in this application are no longer active. As such, this application can no longer be used and screenshots cannot be obtained.
