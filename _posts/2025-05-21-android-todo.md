@@ -4,6 +4,7 @@ date: "2024-06-24"
 category: [Projects, Showcase]
 tag: [mobile, android, kotlin]
 description: A simple to-do list application for Android
+pin: true
 ---
 ## [GitHub Repo](https://github.com/DBerry07/Android_TodoList)
 
