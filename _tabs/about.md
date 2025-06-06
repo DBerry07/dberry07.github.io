@@ -1,6 +1,6 @@
 ---
 # the default layout is 'page'
-title: "About Me"
+title: "Hello, there!"
 icon: fas fa-address-card
 order: 2
 permalink: /
