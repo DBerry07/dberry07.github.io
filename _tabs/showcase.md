@@ -1,7 +1,7 @@
 ---
 # the default layout is 'page'
 icon: fas fa-folder-open
-order: 1
+order: 2
 ---
 
 ## [Flutter Quiz Game](/posts/flutter-quiz/)
