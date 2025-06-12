@@ -7,7 +7,7 @@ description: A simple quiz game using Flutter and Dart
 pin: true
 image:
   path: /assets/img/screenshots/flutter-quiz-01.png
-  alt: The first screen in the app.
+  alt: First screen of the app - the quiz selection screen
 ---
 ### [<i class="fab fa-github"></i> GitHub Repo](https://github.com/DBerry07/Flutter_QuizGame)
 
@@ -26,6 +26,7 @@ Written in Dart and using the Flutter framework, this app is a quiz app.
 + Each question has multiple choices, ranging from 1 choice to 4 choices.
 
 ### Screenshots
+Screenshots from the MacOS version.<br>
 ![Quiz App Question Screenshot](/assets/img/screenshots/flutter-quiz-02.png){: width="350" height="200" }
 _Flutter quiz app question_<br>
 ![Quiz App Correct Screenshot](/assets/img/screenshots/flutter-quiz-03.png){: width="350" height="200" }
