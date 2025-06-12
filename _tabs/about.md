@@ -10,7 +10,7 @@ toc: true
 My name is David Berry and I am a junior-level software engineer.<br>
 I specialize in native Android app development with Kotlin.
 
-## <u>Work Experience</u>
+## Work Experience
 
 #### Caretaking
 <b>May 2022 - Current</b>
@@ -39,7 +39,7 @@ I specialize in native Android app development with Kotlin.
 - Contributed to daily standup meetings and regular Scrum meetings with fellow Android team members.
 - Effected daily communication with managers and the other five native Android mobile development team members using in-person discussions, remote video discussions, Slack, and Microsoft Outlook.
 
-## <u>Education</u>
+## Education
 <b>Florida Atlantic University</b><br>
 Graduated May 2019 <br>
 Bachelor's of Science in Computer Science <br>
