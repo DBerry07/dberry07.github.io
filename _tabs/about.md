@@ -10,11 +10,11 @@ I specialize in native Android app development with Kotlin.
 
 ## <u>Work Experience</u>
 
-#### <span style="color:blue"><b>Caretaking</b></span>
+#### Caretaking
 <b>May 2022 - Current</b>
 - Ensuring the ongoing safety and well-being of a family member.
 
-#### <span style="color:blue"><b>Bank of America</b></span>
+#### Bank of America
 <b>May 2021 - May 2022</b> (Contract, Remote) <br>
 - Programmed/edited Java and XML source code for Bank of America’s Research Library Android app using Android Studio.
 - Mainly made small UI changes, correcting bits of coding, and fixing technical and security issues.
@@ -25,7 +25,7 @@ I specialize in native Android app development with Kotlin.
 - Contributed to weekly Android team, weekly mobile development, and weekly full stack meetings (all remotely).
 - Navigated complex bureaucracy of multi-national corporation, gaining understanding of corporate bureaucratic methods.
 
-#### <span style="color:blue"><b>Revature Training</b></span>
+#### Revature Training
 <b>Jan 2020 - Sept 2020</b> (Contract) <br>
 - Completed eleven week in-person training camp run by Revature. Here, I learned native Android development.
 - Development team member of two native Android applications (MaintainX and CaliberDroid) using Android Studio.
