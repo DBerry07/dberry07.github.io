@@ -3,6 +3,8 @@
 title: "About Me"
 icon: fas fa-address-card
 order: 1
+layout: post
+toc: true
 ---
 
 My name is David Berry and I am a junior-level software engineer.<br>
