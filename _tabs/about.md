@@ -38,6 +38,6 @@ I specialize in native Android app development with Kotlin.
 - Effected daily communication with managers and the other five native Android mobile development team members using in-person discussions, remote video discussions, Slack, and Microsoft Outlook.
 
 ## <u>Education</u>
-<span style="color:blue"><b>Florida Atlantic University</b></span> <br>
+<b>Florida Atlantic University</b><br>
 Graduated May 2019 <br>
 Bachelor's of Science in Computer Science <br>
