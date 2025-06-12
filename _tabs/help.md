@@ -14,3 +14,4 @@ This site is a place where I can post all of my projects for easy viewing.
 - The [Showcase](/showcase/) tab lists projects that I think best show off my developer skills.
 - Use the [Categories](/categories/) and [Tags](/tags/) buttons on the sidebar to navigate the site.
 - You can use the Search function on the top bar to search for specific posts.
+- The bottom of the sidebar has button links to my GitHub, LinkedIn, and email.
