@@ -18,10 +18,10 @@ script_includes:
 
     <div class="post-meta text-muted">
       <!-- published date -->
-      <span>
+      {% comment %} <span>
         {{ site.data.locales[lang].post.posted }} {% include datetime.html
         date=page.date tooltip=true lang=lang %}
-      </span>
+      </span> {% endcomment %}
 
       {% if page.image %} {% capture src %}src="{{ page.image.path | default:
       page.image }}"{% endcapture %} {% capture class %}class="preview-img{% if
