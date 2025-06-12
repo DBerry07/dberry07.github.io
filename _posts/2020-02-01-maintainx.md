@@ -6,7 +6,7 @@ tag: [mobile, android, java]
 description: The Revature two-person native Android application
 ---
 
-## [GitHub Repo](https://github.com/DBerry07/Revature_TrainingRoomMaintenanceScheduler)
+## [<i class="fab fa-github"></i> GitHub Repo](https://github.com/DBerry07/Revature_TrainingRoomMaintenanceScheduler)
 
 Revature Training Room Maintenance Scheduler
 

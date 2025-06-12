@@ -5,7 +5,7 @@ category: [Projects, Revature]
 tag: [mobile, android, kotlin]
 description: The Revature six-person native Android application
 ---
-## [GitHub Repo](https://github.com/DBerry07/Revature_CaliberDroid)
+## [<i class="fab fa-github"></i> GitHub Repo](https://github.com/DBerry07/Revature_CaliberDroid)
 
 ## Revature Project
 

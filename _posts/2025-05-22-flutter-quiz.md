@@ -6,7 +6,7 @@ tag: [mobile, flutter, dart]
 description: A simple quiz game using Flutter and Dart
 pin: true
 ---
-## [GitHub Repo](https://github.com/DBerry07/Flutter_QuizGame)
+## [<i class="fab fa-github"></i> GitHub Repo](https://github.com/DBerry07/Flutter_QuizGame)
 
 Written in Dart and using the Flutter framework, this app is a quiz app.
 

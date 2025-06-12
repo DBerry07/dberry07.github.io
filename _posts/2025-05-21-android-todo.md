@@ -6,7 +6,7 @@ tag: [mobile, android, kotlin]
 description: A simple to-do list application for Android
 pin: true
 ---
-## [GitHub Repo](https://github.com/DBerry07/Android_TodoList)
+## [<i class="fab fa-github"></i> GitHub Repo](https://github.com/DBerry07/Android_TodoList)
 
 ### Overview:
 SimpleTodoList is a native Android application coded in Kotlin with Firebase Firestore integration. The application allows the user to create a task, edit a task, delete a task, and mark a task as completed. These tasks appear in lists ("Uncompleted" and "Completed") on the main page. 
