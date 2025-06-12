@@ -12,7 +12,8 @@ image:
 ## [<i class="fab fa-github"></i> GitHub Repo](https://github.com/DBerry07/Flutter_QuizGame)
 
 ## Overview
-Written in Dart and using the Flutter framework, this app is a quiz app.
+A simple quiz game application.<br>
+Written in Dart and using the Flutter framework.
 
 ### Control Flow
 1. User selects which quiz to do
