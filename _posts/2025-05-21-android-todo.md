@@ -6,9 +6,9 @@ tag: [mobile, android, kotlin]
 description: A simple to-do list application for Android
 pin: true
 ---
-## [<i class="fab fa-github"></i> GitHub Repo](https://github.com/DBerry07/Android_TodoList)
+### [<i class="fab fa-github"></i> GitHub Repo](https://github.com/DBerry07/Android_TodoList)
 
-### Overview:
+### Overview
 SimpleTodoList is a native Android application coded in Kotlin with Firebase Firestore integration. The application allows the user to create a task, edit a task, delete a task, and mark a task as completed. These tasks appear in lists ("Uncompleted" and "Completed") on the main page. 
 The application also features a "priority" labeling, allowing the user to label a task in one of four priorities - Normal, Low, Medium, and High. Depending on whether the user has marked a task as "completed", the task appears in either the "Uncompleted" list or "Completed" list.
 
@@ -16,7 +16,7 @@ The app also has sort and filter functions: the user can sort the list based on 
 
 Currently, the app only supports one login that is shared between all users.
 
-### Technologies Used:
+### Technologies Used
 + Kotlin
 + Firebase Firestore
 + Jetpack Compose
@@ -24,7 +24,7 @@ Currently, the app only supports one login that is shared between all users.
 + Android Studio
 + Android SDK
 
-### Future Plans:
+### Future Plans
 + Allow user-created lists, besides just the "Completed" and "Uncompleted" lists.
 + Allow the user to add alarms and reminders to tasks.
 + Allow users to login based on personal username and password, to show only tasks created by them.
