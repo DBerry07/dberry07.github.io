@@ -5,6 +5,9 @@ category: [Projects, Showcase]
 tag: [mobile, flutter, dart]
 description: A simple quiz game using Flutter and Dart
 pin: true
+image:
+  path: /assets/img/screenshots/flutter-quiz-01.png
+  alt: The first screen in the app.
 ---
 ### [<i class="fab fa-github"></i> GitHub Repo](https://github.com/DBerry07/Flutter_QuizGame)
 
@@ -21,3 +24,14 @@ Written in Dart and using the Flutter framework, this app is a quiz app.
 + The order of appearance of the questions is randomized each time the user starts a new quiz.
 + The user can return to the initial screen (the quiz selection screen) by clicking the home icon in the app bar.
 + Each question has multiple choices, ranging from 1 choice to 4 choices.
+
+### Screenshots
+![Quiz App Question Screenshot](/assets/img/screenshots/flutter-quiz-02.png){: width="350" height="200" }
+_Flutter quiz app question_<br>
+![Quiz App Correct Screenshot](/assets/img/screenshots/flutter-quiz-03.png){: width="350" height="200" }
+_Flutter quiz correct answer_<br>
+![Quiz App Incorrect Screenshot](/assets/img/screenshots/flutter-quiz-04.png){: width="350" height="200" }
+_Flutter quiz incorrect answer_<br>
+![Quiz App Score Screenshot](/assets/img/screenshots/flutter-quiz-05.png){: width="350" height="200" }
+_Flutter quiz end score_<br>
+
