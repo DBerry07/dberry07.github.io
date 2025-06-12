@@ -32,14 +32,13 @@ Written in Dart and using the Flutter framework, this app is a quiz app.
 + A developer can easily add another quiz topic by creating a JSON file (using the same template as the other quiz topics) and adding it to the ```quizzes.dart``` ```quizzes``` map.
 
 ## Screenshots
-![Quiz App Question Screenshot](/assets/img/screenshots/flutter-quiz-android-00.png){: width="200" height="500" }
-_Flutter quiz app quiz selection screen_<br>
-![Quiz App Question Screenshot](/assets/img/screenshots/flutter-quiz-android-question.png){: width="200" height="500" }
-_Flutter quiz app question_<br>
-![Quiz App Correct Screenshot](/assets/img/screenshots/flutter-quiz-android-correct.png){: width="200" height="500" }
-_Flutter quiz correct answer_<br>
-![Quiz App Incorrect Screenshot](/assets/img/screenshots/flutter-quiz-android-incorrect.png){: width="200" height="500" }
-_Flutter quiz incorrect answer_<br>
-![Quiz App Score Screenshot](/assets/img/screenshots/flutter-quiz-android-results.png){: width="200" height="500" }
-_Flutter quiz end score_<br>
+<div class="screenshots">
+    <img src="/assets/img/screenshots/flutter-quiz-android-00.png" width="200" />
+    <img src="/assets/img/screenshots/flutter-quiz-android-question.png" width="200" />
+    <img src="/assets/img/screenshots/flutter-quiz-android-results.png" width="200" />
+</div>
+<div class ="screenshots">
+    <img src="/assets/img/screenshots/flutter-quiz-android-correct.png" width="200" />
+    <img src="/assets/img/screenshots/flutter-quiz-android-incorrect.png" width="200" />
+</div>
 
